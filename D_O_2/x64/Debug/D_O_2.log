@@ -1,3 +1,8 @@
 ﻿  D_O_2.cpp
-C:\Users\q\source\repos\D_O_2\D_O_2.cpp(18,25): warning C4101: y_0: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(74,25): warning C4101: y_0: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(74,15): warning C4101: y_n: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(117,9): warning C4101: A1: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(117,12): warning C4101: A2: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(117,15): warning C4101: A3: неиспользованная локальная переменная
+C:\Users\q\source\repos\D_O_2\D_O_2.cpp(74,20): warning C4101: x_n: неиспользованная локальная переменная
   D_O_2.vcxproj -> C:\Users\q\source\repos\D_O_2\x64\Debug\D_O_2.exe
